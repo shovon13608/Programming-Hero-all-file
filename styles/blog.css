@@ -1,0 +1,36 @@
+h3{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Aliquam{
+    border: 2px solid rgb(85, 0, 255);
+    /* display: block; */
+    margin: 20px;
+}
+ol{
+    /* display: inline; */
+}
+.blog{
+    /* display:none; */
+    /* visibility: hidden; */
+
+}
+.blog{
+    margin: 40px;
+    border: 5px solid red;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px blue ;
+}
+
+.header{
+    text-align: center;
+    height: 300px;
+    /* background-color: violet; */
+    background-image:url("../image/pc.jpg") ;
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 300px;
+
+}
